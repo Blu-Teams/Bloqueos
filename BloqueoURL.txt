@@ -1318,3 +1318,5 @@ t.pswec.com
 pswec.com
 updater.skillbrains.com
 skillbrains.com
+amp.analytics-debugger.com
+cdn.wyleex.com
