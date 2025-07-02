@@ -1301,3 +1301,4 @@ srv.bidgx.com
 x.helloworld.co
 indazn.com
 tmzr.themoneytizer.fr
+capig.stape.ma
