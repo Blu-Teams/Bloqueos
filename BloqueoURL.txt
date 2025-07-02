@@ -1311,3 +1311,4 @@ rtbprotect.com
 admaster.cc
 racenep.admaster.cc
 some.growplow.events
+ipm.adblock.dev
