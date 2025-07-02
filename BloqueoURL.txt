@@ -1320,3 +1320,4 @@ updater.skillbrains.com
 skillbrains.com
 amp.analytics-debugger.com
 cdn.wyleex.com
+sdkconfig.speedcheckerapi.com
