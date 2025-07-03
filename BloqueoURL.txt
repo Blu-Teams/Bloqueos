@@ -1337,3 +1337,5 @@ dmp-telemetry.wemass.com
 trck.rdtrckssl.com
 kraken.rambler.ru
 rambler.ru
+dmp-telemetry.wemass.com
+service.wemass.com
