@@ -1339,3 +1339,6 @@ kraken.rambler.ru
 rambler.ru
 dmp-telemetry.wemass.com
 service.wemass.com
+taetee.com
+star-layer.com
+byte-buff.com
