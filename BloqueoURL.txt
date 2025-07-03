@@ -1326,3 +1326,4 @@ crosat.us
 tenant-code-to-type-mapper.everymundo.workers.dev
 cdn.ocmtag.com
 kayum.mx
+www.dynamicseshop.com
