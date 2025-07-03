@@ -1335,3 +1335,5 @@ sippansy.com
 platformsrat.com
 dmp-telemetry.wemass.com
 trck.rdtrckssl.com
+kraken.rambler.ru
+rambler.ru
