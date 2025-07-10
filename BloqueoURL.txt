@@ -1398,3 +1398,4 @@ email.rentola.mx
 is1.res.cloudinary.com.vajro.com
 serving.mdscpxchg.com
 cdn.adapex.io
+oc-stats.sergio8646.workers.dev
