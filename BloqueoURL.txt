@@ -1401,3 +1401,4 @@ cdn.adapex.io
 oc-stats.sergio8646.workers.dev
 api-growthbook.reservamos.tech
 us-east-1.resend-ct.com
+sku-mapping.sergio8646.workers.dev
