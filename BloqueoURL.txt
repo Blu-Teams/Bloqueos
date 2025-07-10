@@ -1405,3 +1405,4 @@ sku-mapping.sergio8646.workers.dev
 www.ipqscdn.com
 ns-74.awsdns-09.com
 emcid-allowlist.everymundo.workers.dev
+payment-api.aiapp.ai
