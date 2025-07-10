@@ -1399,3 +1399,10 @@ is1.res.cloudinary.com.vajro.com
 serving.mdscpxchg.com
 cdn.adapex.io
 oc-stats.sergio8646.workers.dev
+api-growthbook.reservamos.tech
+us-east-1.resend-ct.com
+sku-mapping.sergio8646.workers.dev
+www.ipqscdn.com
+ns-74.awsdns-09.com
+emcid-allowlist.everymundo.workers.dev
+payment-api.aiapp.ai
