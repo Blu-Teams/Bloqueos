@@ -1415,3 +1415,4 @@ dfsdk.com
 media.bouncy.ai
 crt.sh
 taliwindcss.com
+cb.wowvision.com
