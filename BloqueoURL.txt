@@ -1430,3 +1430,4 @@ mc.yandex.ru
 google.com.onion
 openvpn.net
 adultfriendfinder.com
+bundle.5gtb.com
