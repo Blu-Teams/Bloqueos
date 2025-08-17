@@ -1452,3 +1452,4 @@ google.com.onion
 dns2.zxz.su
 zxz.su
 877065.sched.legopic2-dk.tdnsv6.com
+acc-inter.com
