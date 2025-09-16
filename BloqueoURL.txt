@@ -1478,3 +1478,5 @@ pptechnology.cc
 tracking.blueravio.com
 tracking.orangezavio.com
 sendgrid.net
+clarity.ms
+help-flix.net
