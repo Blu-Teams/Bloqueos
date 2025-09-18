@@ -1480,3 +1480,5 @@ tracking.orangezavio.com
 sendgrid.net
 clarity.ms
 help-flix.net
+chubbconnectionbrokers.com
+prod-spsf-dtc.solitaire-app.com
