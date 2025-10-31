@@ -1512,3 +1512,4 @@ aknet.kg
 dnsmeasure.top
 hinet.tw
 mshome.net
+yts.am
