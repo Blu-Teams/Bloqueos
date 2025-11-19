@@ -1527,3 +1527,5 @@ qr.grupohub.pro
 grupohub.pro
 btcl.com.bd
 telegram.dog
+google.com.onion
+yfdpco1.com
