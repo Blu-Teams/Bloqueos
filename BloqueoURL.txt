@@ -1529,3 +1529,4 @@ telegram.dog
 google.com.onion
 yfdpco1.com
 kakaku.com
+forum.bigfix.com
