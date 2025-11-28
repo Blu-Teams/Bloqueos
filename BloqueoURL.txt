@@ -1543,3 +1543,4 @@ ssl.gstatic.com
 google.com.onion
 cl-glcb907925.gcdn.co
 phg.hr
+oast.site
