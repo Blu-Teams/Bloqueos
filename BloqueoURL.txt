@@ -1548,3 +1548,4 @@ build.landrover
 a-us00.kxcdn.com
 pic3.zhimg.com.eo.dnse0.com
 ourarisng.com
+sbi.uy
