@@ -1558,3 +1558,6 @@ ei-ph.t8cdn.com.sds.rncdn7.com
 tube8.com
 streamdatatrack.help
 contrato.zip
+cname.vercel-dns.com
+_4433._https.counter6.optistats.ovh
+optistats.ovh
