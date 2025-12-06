@@ -1562,3 +1562,8 @@ cname.vercel-dns.com
 _4433._https.counter6.optistats.ovh
 optistats.ovh
 file.garden
+ns.sm.ua
+ns.dn.ua
+ns.zp.ua
+ns.ic.km.ua
+ns.secondary.net.ua
