@@ -1567,3 +1567,4 @@ ns.dn.ua
 ns.zp.ua
 ns.ic.km.ua
 ns.secondary.net.ua
+digiboy.ir
