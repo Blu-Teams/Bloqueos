@@ -1569,3 +1569,4 @@ ns.ic.km.ua
 ns.secondary.net.ua
 digiboy.ir
 translate.goog
+yt3.ggpht.com
