@@ -1,4 +1,3 @@
-swls.map.fastly.net
 one.onetwofire.com
 revi7.com
 vd5v76cdc.com
@@ -1583,4 +1582,5 @@ s644vla.storage.yandex.net
 dood.yt
 filemoon.sx
 pelisplus2.gifts
-ns.gov.cl
+fonts.gstatic.com
+alicialucesymaravillas.com
