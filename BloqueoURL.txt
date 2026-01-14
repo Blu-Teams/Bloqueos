@@ -1608,3 +1608,4 @@ bc.game
 xaas.systems
 telcelpuntos.com
 compucalitv.lol
+hrsys.chedraui.com.mx
