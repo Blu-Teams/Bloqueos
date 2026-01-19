@@ -1618,3 +1618,4 @@ payara.fish
 pagead2.googlesyndication.com
 yandex.com
 zagent2657.x-cdn-static.com
+sg.thepurplesearch.com
