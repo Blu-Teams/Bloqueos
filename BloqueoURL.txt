@@ -1625,3 +1625,5 @@ njalla.fo
 onions.mn
 beacons.gvt2.com
 fanshub.sbs
+google.sc
+www.google.sc
