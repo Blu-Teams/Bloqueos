@@ -1637,3 +1637,4 @@ goodpolysk.best
 is.gd
 app-api.nft.crypto.com
 h3.apis.apple.map.fastly.net
+myou.cvte.com
