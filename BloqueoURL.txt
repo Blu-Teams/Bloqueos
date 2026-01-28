@@ -1636,3 +1636,5 @@ https://vc.ferretera.org:443/0AT14/
 goodpolysk.best
 is.gd
 app-api.nft.crypto.com
+h3.apis.apple.map.fastly.net
+myou.cvte.com
