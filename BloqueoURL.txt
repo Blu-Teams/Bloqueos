@@ -1692,3 +1692,7 @@ stormlegue.com
 telete.in
 tttttt.me
 ad.doubleclick.net
+game-assets.store.supercell.com
+collector.snowplow.supercell.com
+accounts.supercell.com
+inventory.mtech.supercell.com
