@@ -1731,3 +1731,5 @@ wahu.autos
 beacons2.gvt2.com
 glb-editor.wix.com
 carv.ski
+lacnic.net.uy
+nic.uy
