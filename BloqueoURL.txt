@@ -1742,3 +1742,4 @@ zagent2717.x-cdn-static.com
 zagent2691.x-cdn-static.com
 thepiratebay.org
 one.one.one.one
+pascaleditor.org
