@@ -1744,3 +1744,8 @@ zagent2691.x-cdn-static.com
 thepiratebay.org
 one.one.one.one
 pascaleditor.org
+zagent2686.x-cdn-static.com
+zagent2704.yg5sjx5kzy.com
+zagent2685.x-cdn-static.com
+mask.apple-dns.net
+zagent2718.x-cdn-static.com
