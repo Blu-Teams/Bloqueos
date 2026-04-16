@@ -1750,3 +1750,4 @@ mask.apple-dns.net
 zagent2718.x-cdn-static.com
 sfum.top
 unlinkability.fe2.apple-dns.net
+afafb.com
