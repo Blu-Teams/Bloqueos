@@ -1757,3 +1757,4 @@ https://vmi3231296.contaboserver.net/?_task=mail&_action=get&_mbox=INBOX&_uid=49
 https://40.33.167.72.host.secureserver.net:443/kAgPdyXeMSnK0fHgemD1/
 zagent2013.x-cdn-static.com
 www-v2.easy4ipcloud.com
+counter.yadro.ru
