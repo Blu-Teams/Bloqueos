@@ -1764,3 +1764,4 @@ wap.sogou.com
 https://40.33.167.72.host.secureserver.net/58u7bmKkaseDsGy6qG5g0E
 usdal2.ce.apple-dns.net
 lex.ns.cloudflare.com
+https://smartpacific.com/var/vendor/pdf/?cid=0439434700b2f413fdbd294c28fac5d27e83c2c8a7ac51680f7011f5dea4b1d9d0e1bba78fd95f37431151abeaf207adc8b9&idMsg=ircyuwufanpyflzcvuol
