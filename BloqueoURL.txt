@@ -1763,3 +1763,4 @@ https://vmi3234075.contaboserver.net/?_task=mail
 wap.sogou.com
 https://40.33.167.72.host.secureserver.net/58u7bmKkaseDsGy6qG5g0E
 usdal2.ce.apple-dns.net
+lex.ns.cloudflare.com
