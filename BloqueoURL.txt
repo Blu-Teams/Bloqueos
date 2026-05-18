@@ -1801,3 +1801,4 @@ analytics-alv.google.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cloudflare-dns.com
 eu.adventori.com
+mc.yango.com
