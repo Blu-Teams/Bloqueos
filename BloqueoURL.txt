@@ -1804,3 +1804,4 @@ eu.adventori.com
 mc.yango.com
 clients.l.google.com
 ax-0001.ax-msedge.net
+snapcraft.io
