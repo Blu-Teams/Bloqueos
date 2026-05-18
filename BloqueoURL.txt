@@ -1795,3 +1795,4 @@ la.movie
 occ-0-8383-58.1.nflxso.net
 occ-0-652-325.1.nflxso.net
 res-ocdi-stls-prod.edgesuite.net
+direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com
