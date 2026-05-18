@@ -1806,3 +1806,4 @@ clients.l.google.com
 ax-0001.ax-msedge.net
 snapcraft.io
 instagram.c10r.instagram.com
+script.hotjar.com
