@@ -1794,3 +1794,17 @@ ns2.node.kim
 la.movie
 occ-0-8383-58.1.nflxso.net
 occ-0-652-325.1.nflxso.net
+res-ocdi-stls-prod.edgesuite.net
+direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com
+a767.dspw65.akamai.net
+analytics-alv.google.com
+cdn.globalsigncdn.com.cdn.cloudflare.net
+cloudflare-dns.com
+eu.adventori.com
+mc.yango.com
+clients.l.google.com
+ax-0001.ax-msedge.net
+snapcraft.io
+instagram.c10r.instagram.com
+script.hotjar.com
+df.afafb.com
