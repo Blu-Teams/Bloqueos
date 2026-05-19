@@ -1810,3 +1810,4 @@ script.hotjar.com
 df.afafb.com
 zagent2689.kbz0pwvxmv.com
 habitwork.net
+js-cdn.dynatrace.com
