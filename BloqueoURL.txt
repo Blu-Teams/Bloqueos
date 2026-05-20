@@ -1815,3 +1815,5 @@ https://curric-mse-912991186599.europe-southwest1.run.app/archivo/DQpiwS?id=on_d
 fcm.afafb.com
 beacon.krxd.net
 d16dd1r79g7ts3.cloudfront.net
+sb.l.google.com
+googlehosted.l.googleusercontent.com
