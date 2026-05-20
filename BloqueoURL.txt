@@ -1813,3 +1813,4 @@ habitwork.net
 js-cdn.dynatrace.com
 https://curric-mse-912991186599.europe-southwest1.run.app/archivo/DQpiwS?id=on_demand/websaccess/mie/FlexibleForm/FlexibleForm.aspx?action=run&layout=_flexibleform&id=TdpkfaMyELXQKJZcv=966&uid=tylys&user=q&language=es&skin=skin643&t=1779088816
 fcm.afafb.com
+beacon.krxd.net
