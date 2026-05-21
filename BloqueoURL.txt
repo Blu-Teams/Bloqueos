@@ -1823,3 +1823,5 @@ adobe.com.ssl.d1.sc.omtrdc.net
 content-autofill.googleapis.com
 s-0005.dual-s-msedge.net
 2mdnsxf5.sched.sma-dk.tdnsstic1.cn
+zagent1611.kbz0pwvxmv.com
+zagent2677.kbz0pwvxmv.com
