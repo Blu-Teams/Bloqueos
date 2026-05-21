@@ -1813,3 +1813,11 @@ habitwork.net
 js-cdn.dynatrace.com
 https://curric-mse-912991186599.europe-southwest1.run.app/archivo/DQpiwS?id=on_demand/websaccess/mie/FlexibleForm/FlexibleForm.aspx?action=run&layout=_flexibleform&id=TdpkfaMyELXQKJZcv=966&uid=tylys&user=q&language=es&skin=skin643&t=1779088816
 fcm.afafb.com
+beacon.krxd.net
+d16dd1r79g7ts3.cloudfront.net
+sb.l.google.com
+googlehosted.l.googleusercontent.com
+www.googleadservices.com
+k8s-nextunne-nodeserv-dd427d62df-aeab8d42b30c9ede.elb.us-west-2.amazonaws.com
+adobe.com.ssl.d1.sc.omtrdc.net
+content-autofill.googleapis.com
