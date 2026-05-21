@@ -1826,3 +1826,4 @@ s-0005.dual-s-msedge.net
 zagent1611.kbz0pwvxmv.com
 zagent2677.kbz0pwvxmv.com
 adobetarget.data.adobedc.net
+dev.visualwebsiteoptimizer.com
