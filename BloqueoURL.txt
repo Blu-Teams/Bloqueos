@@ -1821,3 +1821,12 @@ www.googleadservices.com
 k8s-nextunne-nodeserv-dd427d62df-aeab8d42b30c9ede.elb.us-west-2.amazonaws.com
 adobe.com.ssl.d1.sc.omtrdc.net
 content-autofill.googleapis.com
+s-0005.dual-s-msedge.net
+2mdnsxf5.sched.sma-dk.tdnsstic1.cn
+zagent1611.kbz0pwvxmv.com
+zagent2677.kbz0pwvxmv.com
+adobetarget.data.adobedc.net
+dev.visualwebsiteoptimizer.com
+api.demandbase.com
+star.fallback.c10r.instagram.com
+clientservices.googleapis.com
