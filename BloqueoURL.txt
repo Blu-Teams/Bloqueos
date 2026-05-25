@@ -1835,3 +1835,4 @@ oauthaccountmanager.googleapis.com
 ssp.theadx.com
 update.googleapis.com
 play.googleapis.com
+media-qro1-2.cdn.whatsapp.net
