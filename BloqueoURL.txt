@@ -1833,3 +1833,4 @@ clientservices.googleapis.com
 ax-0002.ax-msedge.net
 oauthaccountmanager.googleapis.com
 ssp.theadx.com
+update.googleapis.com
