@@ -1838,3 +1838,4 @@ play.googleapis.com
 media-qro1-2.cdn.whatsapp.net
 ingest.quantummetric.com
 www.appsecinc.com
+pacific.net.ph
