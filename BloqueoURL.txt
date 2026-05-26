@@ -1844,3 +1844,6 @@ api.ip.sb
 d27xxe7juh1us6.cloudfront.net
 com.blog
 buzonrfc-descargacfdi.com.blog
+blitzwallet.cfd
+pub.tomo.inc
+wallet.tg
