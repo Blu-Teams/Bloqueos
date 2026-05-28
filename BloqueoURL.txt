@@ -1858,3 +1858,11 @@ user-skill-eval.afafb.com
 cognito-identity.us-east-1.amazonaws.com
 w.usabilla.com
 redherring.com
+d8ghbpr3r4dzt.cloudfront.net
+occ-0-1588-58.1.nflxso.net
+https://shared.outlook.inky.com/link?domain=smtp.penserologic.info
+www.googleapis.com
+adservice.google.com.tw
+headphonesconnect-cfgdst-ore-pro.bda.ndmdhs.com
+occ-0-1981-64.1.nflxso.net
+mmx-ds.cdn.whatsapp.net
