@@ -1866,3 +1866,4 @@ adservice.google.com.tw
 headphonesconnect-cfgdst-ore-pro.bda.ndmdhs.com
 occ-0-1981-64.1.nflxso.net
 mmx-ds.cdn.whatsapp.net
+www.tm.a.prd.aadg.akadns.net
