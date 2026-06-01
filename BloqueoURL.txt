@@ -1876,3 +1876,4 @@ pixel.advertising.com
 universal.iper2.com
 mr-b02.tm-azurefd.net
 dns.adguard.com
+unchk.sn
