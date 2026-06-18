@@ -1917,3 +1917,4 @@ mask-api.fe2.apple-dns.net
 get-bx.g.aaplimg.com
 peoplestack-pa.clients6.google.com
 c2nvdxq.fubo18.com
+contacts.google.com
