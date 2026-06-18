@@ -1913,3 +1913,6 @@ www.google.cv
 www.google.gy
 www.google.mv
 www.google.com.cu
+mask-api.fe2.apple-dns.net
+get-bx.g.aaplimg.com
+peoplestack-pa.clients6.google.com
