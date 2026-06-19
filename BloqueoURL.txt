@@ -1923,3 +1923,4 @@ ws75.aptoide.com.cdn.cloudflare.net
 hella-us.ali.afafb.com
 occ-0-1840-58.1.nflxso.net
 metrics-dra.dt.hicloud.com
+tarjetaroja.cloud
