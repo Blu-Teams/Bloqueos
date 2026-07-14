@@ -1938,3 +1938,4 @@ ns3.dns.tk
 xnxx.com
 a2z.com
 ns1.h2.nexus
+buq.partners
