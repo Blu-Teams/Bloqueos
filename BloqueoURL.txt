@@ -1958,3 +1958,4 @@ e86303.dscx.akamaiedge.net
 moloco.rtb.afafb.com
 smoot-searchv2-ause1b.v.aaplimg.com
 js.crypto.com
+js.monitor.azure.com
