@@ -1963,3 +1963,5 @@ moloco.rtb.afafb.com
 smoot-searchv2-ause1b.v.aaplimg.com
 js.crypto.com
 js.monitor.azure.com
+chummy.tw
+234.198.187.160.chummy.tw
