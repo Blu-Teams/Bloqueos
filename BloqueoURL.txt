@@ -1961,3 +1961,4 @@ js.crypto.com
 js.monitor.azure.com
 chummy.tw
 234.198.187.160.chummy.tw
+learn-prod-5fdc0d8108394-772940140.us-east-1.elb.amazonaws.com
