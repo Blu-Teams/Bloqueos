@@ -1964,3 +1964,4 @@ chummy.tw
 learn-prod-5fdc0d8108394-772940140.us-east-1.elb.amazonaws.com
 api.apple-cloudkit.fe2.apple-dns.net
 wns.notify.trafficmanager.net
+www.google.com.om
