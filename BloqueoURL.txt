@@ -1966,3 +1966,4 @@ api.apple-cloudkit.fe2.apple-dns.net
 wns.notify.trafficmanager.net
 www.google.com.om
 www3.l.google.com
+middle-inference-platform-bb-ios-user-growth.afafb.com
