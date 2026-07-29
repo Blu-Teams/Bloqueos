@@ -1971,3 +1971,4 @@ pub0202.101.ru
 taskassist-pa.googleapis.com
 la18hd.su
 dns3.zxz.su
+mmx-ds.cdn.whatsapp.net
