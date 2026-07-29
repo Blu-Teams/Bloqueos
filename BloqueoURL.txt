@@ -1965,3 +1965,10 @@ js.crypto.com
 js.monitor.azure.com
 chummy.tw
 234.198.187.160.chummy.tw
+learn-prod-5fdc0d8108394-772940140.us-east-1.elb.amazonaws.com
+api.apple-cloudkit.fe2.apple-dns.net
+wns.notify.trafficmanager.net
+www.google.com.om
+www3.l.google.com
+middle-inference-platform-bb-ios-user-growth.afafb.com
+pub0202.101.ru
