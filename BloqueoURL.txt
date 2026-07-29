@@ -1972,3 +1972,7 @@ taskassist-pa.googleapis.com
 la18hd.su
 dns3.zxz.su
 mmx-ds.cdn.whatsapp.net
+google.co.cr
+google.com.do
+google.co.ke
+google.com.kh
