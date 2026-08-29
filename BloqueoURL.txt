@@ -2021,3 +2021,4 @@ applet-bundles.grammarly.net
 cam4.com
 https://www.scriptobject.com/
 files.alpaca.markets
+amman-server1.go.com.jo
