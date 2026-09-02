@@ -2025,3 +2025,4 @@ amman-server1.go.com.jo
 ns.net-com.su
 pbigap.powerbigov.us
 jquery.fail
+parental.e5.sk
