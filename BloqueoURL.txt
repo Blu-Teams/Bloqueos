@@ -2023,3 +2023,4 @@ https://www.scriptobject.com/
 files.alpaca.markets
 amman-server1.go.com.jo
 ns.net-com.su
+pbigap.powerbigov.us
