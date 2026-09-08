@@ -2031,3 +2031,4 @@ insta.cyou
 ssp.qc.coccoc.com
 145.186.202.64.host.secureserver.net
 laurinsboxer.com
+darkreader.org
