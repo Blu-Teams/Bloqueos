@@ -2049,3 +2049,4 @@ s.gy
 intnet.mu
 static-cdn.hotjar.com
 authentication-prod.ar.indazn.com
+signaler-pa.clients6.google.com
