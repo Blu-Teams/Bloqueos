@@ -2048,3 +2048,4 @@ hxxps://145.186.202.64.host.secureserver.net/DEjUgFz4/1O3REB
 s.gy
 intnet.mu
 static-cdn.hotjar.com
+authentication-prod.ar.indazn.com
