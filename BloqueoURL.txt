@@ -2056,3 +2056,4 @@ ab.chatgpt.com
 rebrand.ly
 web.archive.org
 65909d1041google.tap4api.com
+e673.dsce9.akamaiedge.net
