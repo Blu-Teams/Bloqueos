@@ -2059,3 +2059,5 @@ web.archive.org
 e673.dsce9.akamaiedge.net
 d3j7xsc0vda5xv.cloudfront.net
 65909d1041google.tap4api.com
+img.wqxag.com
+rojadirectatvplus.net
