@@ -2070,3 +2070,4 @@ db145nqjn653e0ehd590cp71qqxd4t4ze.oast.pro
 db145nqjn653e0ehd5906a77t917wxifz.oast.pro
 l.root-servers.net
 htdevapp.com
+googleads.g.doubleclick.net
