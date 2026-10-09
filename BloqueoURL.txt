@@ -2072,3 +2072,4 @@ l.root-servers.net
 htdevapp.com
 googleads.g.doubleclick.net
 d1tcqh4bio8cty.cloudfront.net
+api.cyberghostvpn.com
