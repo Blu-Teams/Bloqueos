@@ -2094,3 +2094,4 @@ ohttp-relay-safebrowsing-chrome.google.fastly-edge.com
 meetings.googleapis.com
 pendejos.al
 tarjetaroja.mba
+rs.fullstory.com
