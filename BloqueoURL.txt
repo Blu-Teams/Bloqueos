@@ -2095,3 +2095,4 @@ meetings.googleapis.com
 pendejos.al
 tarjetaroja.mba
 rs.fullstory.com
+direct.quic-mix-proxy-gcpsg-v3.gcpsg.byteglb.com
