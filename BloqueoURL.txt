@@ -2099,3 +2099,4 @@ direct.quic-mix-proxy-gcpsg-v3.gcpsg.byteglb.com
 65909d1041google.tap4api.com
 google.sm
 a.nic.casa
+rojadirectatvoficial.sx
