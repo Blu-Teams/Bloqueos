@@ -2104,3 +2104,4 @@ pbigap.high.powerbigov.us
 145.186.202.64.host.secureserver.net
 bodegacasanova.com
 rojadirectatvplay.org
+gspe79-cdn.g.aaplimg.com
