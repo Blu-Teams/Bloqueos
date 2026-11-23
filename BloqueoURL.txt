@@ -2155,3 +2155,4 @@ cloud.microsoft
 connectivity-test.cloud.microsoft
 zagent2008.hola.org
 zagent2018.yg5sjx5kzy.com
+ns1.google.com
