@@ -2171,3 +2171,5 @@ https://6.224.167.72.host.secureserver.net/b=0009fad%C3%B0%C2%9D%C2%9F%C2%B6%C3%
 https://145.186.202.64.host.secureserver.net/?shem=aimgspe
 3hm.minijuegos.com
 relay-5fa6c375.net.anydesk.com
+bitbucket.org
+platform-cs-edge-va6.adobe.io
