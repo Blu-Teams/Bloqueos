@@ -2177,3 +2177,5 @@ platform-cs-edge-va6.adobe.io
 https://60.183.62.50.host.secureserver.net/UgztHadfomHWk1spCmL
 https://145.186.202.64.host.secureserver.net/6fb13e89-0d68-49f5-8164-eadca6388157
 2.android.pool.ntp.org
+https://thatssource.com/43378be7-9ebe-4e98-86bc-f240999c3cef
+https://145.186.202.64.host.secureserver.net/4a94a56d-2c8d-4807-9556-54d3d6d8842d
